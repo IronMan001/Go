@@ -1,2 +1,2 @@
 # Go
-go test
+go learn
